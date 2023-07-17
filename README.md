@@ -1,5 +1,5 @@
 
-<h1> Protótipo -  Janela Inteligente</h1>
+<h1> Protótipo -  Janela Inteligente em C</h1>
 
 >Status: em correção de variável de condição
 
